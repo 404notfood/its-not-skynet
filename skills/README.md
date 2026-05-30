@@ -46,6 +46,7 @@ skills/
 | [laravel-php-review](404notfood/laravel-php-review/META.md) | Revue de code PHP/Laravel (sécurité, perfs N+1, conventions) |
 | [seo-laravel](404notfood/seo-laravel/META.md) | SEO on-page Laravel/Blade : audit + implémentation (zéro réseau) |
 | [nextjs-review](404notfood/nextjs-review/META.md) | Revue de code Next.js (App Router v16) : async APIs, frontière server/client, sécurité, Cache Components |
+| [seo-nextjs](404notfood/seo-nextjs/META.md) | SEO on-page Next.js v16 : Metadata API, sitemap.ts/robots.ts, JSON-LD (zéro réseau) |
 
 ## Comment utiliser un skill
 

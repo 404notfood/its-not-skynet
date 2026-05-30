@@ -31,3 +31,4 @@ subagents/
 | Subagent | Description |
 |----------|-------------|
 | [laravel_reviewer](404notfood/laravel_reviewer/META.md) | Revue de code PHP/Laravel (L12/L13) : sécurité, perfs N+1, conventions |
+| [nextjs_reviewer](404notfood/nextjs_reviewer/META.md) | Revue de code Next.js (App Router v16) : async APIs, frontière server/client, sécurité, caching |
