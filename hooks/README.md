@@ -50,6 +50,7 @@ hooks/
 
 | Hook | Événement | Type | Description |
 |------|-----------|------|-------------|
+| [pre_tool_use_block_network](404notfood/pre_tool_use_block_network/META.md) | `PreToolUse` | shell | Bloque les commandes réseau/install non validées (`curl`, `npm install`, `git pull`, etc.) |
 | [pre_tool_use_block_secrets](404notfood/pre_tool_use_block_secrets/META.md) | `PreToolUse` | shell | Bloque l'écriture de secrets en dur et le commit de `.env` |
 
 ## Exemple d'activation
