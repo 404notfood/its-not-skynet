@@ -50,6 +50,7 @@ hooks/
 
 | Hook | Événement | Type | Description |
 |------|-----------|------|-------------|
+| [pre_tool_use_block_dangerous_git](404notfood/pre_tool_use_block_dangerous_git/META.md) | `PreToolUse` | shell | Bloque les commandes Git destructives (`reset --hard`, `clean -fd`, `push --force`, etc.) |
 | [pre_tool_use_block_secrets](404notfood/pre_tool_use_block_secrets/META.md) | `PreToolUse` | shell | Bloque l'écriture de secrets en dur et le commit de `.env` |
 
 ## Exemple d'activation
